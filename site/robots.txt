@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://game.kikomono.com/sitemap.xml
