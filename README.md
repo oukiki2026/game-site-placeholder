@@ -1,7 +1,5 @@
-# KIKOMONO / GAMES
+# Kikomono game-site-placeholder
 
-Live site: https://game.kikomono.com/
+Playable daily unique-solution Sudoku, local progress, date archive from 2026-10-03 UTC and techniques guide. No accounts, prizes or ads.
 
-Independent project by OuKiki. Static assets are in `site/`. Deploy on Cloudflare Pages with no framework or build command and output directory `site`. No dependencies, backend or paid service. Do not add credentials to this repository.
-
-Main brand: https://kikomono.com/ . This separate repository does not modify the main site.
+Static Cloudflare Pages deployment: output site/, no build command. No credentials or private documents. Hosted independently from the main-site repository.
