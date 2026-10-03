@@ -1,5 +1,7 @@
-# Kikomono game-site-placeholder
+# Kikomono Games
 
-Playable daily unique-solution Sudoku, local progress, date archive from 2026-10-03 UTC and techniques guide. No accounts, prizes or ads.
+Live: https://game.kikomono.com/
 
-Static Cloudflare Pages deployment: output site/, no build command. No credentials or private documents. Hosted independently from the main-site repository.
+Daily unique-solution Sudoku with local progress and archive; Minesweeper with safe first opening and flag mode.
+
+Static Pages site/ output; no build command, account, backend, advertisement or affiliate link. Main repository is isolated.
